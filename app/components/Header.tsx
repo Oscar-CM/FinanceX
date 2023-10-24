@@ -22,7 +22,7 @@ const Header = () => {
             </div>
             <div className='relative mt-5  w-1/2 text-center'>
                 <div className=''>
-                    <Image src='/ellipse.png' alt='ellipse' height={350} width={350} className=' absolute top-10 z-0 right-0' />
+                    <Image src='/Ellipse.png' alt='ellipse' height={350} width={350} className=' absolute top-10 z-0 right-0' />
                     <Image src='/card3.svg' alt='card' height={450} width={450} className=' absolute top-[50px] lg:top-10 z-30 right-[30px] lg:right-[130px]' />
                     <Image src='/card1.svg' alt='card' height={450} width={450} className=' absolute top-[90px] lg:top-40 z-10 right-[30px] lg:right-[130px]' />
                 </div>
